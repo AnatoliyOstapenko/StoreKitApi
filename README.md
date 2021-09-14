@@ -1,7 +1,7 @@
 
 ![Image](https://github.com/AnatoliyOstapenko/ToDoList/blob/main/ToDoList/Assets.xcassets/CODE256.imageset/CODE256.png)
 
-# StoreKitApi
+# Store Kit API
 
 
 :octocat:  **Objective of project:**
